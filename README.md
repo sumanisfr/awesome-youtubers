@@ -8,7 +8,7 @@
 		</a>
   	</h1>
 	<br />
-	<div>
+	<div> 
 		<a href="https://github.com/JoseDeFreitas/awesome-youtubers">
 			<img width="428" src="logo.svg" alt="Awesome YouTubers logo">
 		</a>
